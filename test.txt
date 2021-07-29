@@ -3,3 +3,7 @@ this is first line added in test.txt
 git add
 
 git commit -m 
+
+git push
+
+git stash
