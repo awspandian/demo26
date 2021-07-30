@@ -10,3 +10,5 @@ git push
 git stash
 
 this line added in hub
+
+second line add in hub for checking the pull command
